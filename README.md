@@ -1,3 +1,8 @@
+© 2026 Aarya Shinde. All rights reserved.
+All projects in this repository are original work by Aarya Shinde.
+Unauthorized copying or reuse without credit is not permitted.
+github.com/AaryaAI-cyber
+
 # Aarya Shinde — Python Programming Internship
 
 ## CodSoft Virtual Internship — December 2025
