@@ -1,3 +1,4 @@
+# © 2026 Aarya Shinde | github.com/AaryaAI-cyber | All rights reserved
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 import random
